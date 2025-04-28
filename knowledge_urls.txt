@@ -1,0 +1,14 @@
+# knowledge_urls.txt
+# Format: Display Name | URL
+Downloading Assets | https://brandworkz.freshdesk.com/support/solutions/articles/80000881124-downloading-assets
+Uploading Assets | https://brandworkz.freshdesk.com/support/solutions/articles/80000881255-uploading-assets
+Download Forms | https://brandworkz.freshdesk.com/support/solutions/articles/80001155937-download-forms
+Sharing Assets | https://brandworkz.freshdesk.com/support/solutions/articles/80000883570-sharing-assets
+Assets Features | https://brandworkz.freshdesk.com/support/solutions/articles/80000880917-assets-features
+Tagging & Editing Assets | https://brandworkz.freshdesk.com/support/solutions/articles/80000886812-tagging-editing-assets
+Moving Assets | https://brandworkz.freshdesk.com/support/solutions/articles/80000891585-moving-assets
+Deleting Assets | https://brandworkz.freshdesk.com/support/solutions/articles/80000891623-deleting-assets
+Export tags and metadata | https://brandworkz.freshdesk.com/support/solutions/articles/80000891565-export-tags-and-metadata
+New Asset Folder | https://brandworkz.freshdesk.com/support/solutions/articles/80000881271-new-asset-folder
+Asset Previews | https://brandworkz.freshdesk.com/support/solutions/articles/80001146868-asset-previews
+# Add more URLs here following the 'Name | URL' format
